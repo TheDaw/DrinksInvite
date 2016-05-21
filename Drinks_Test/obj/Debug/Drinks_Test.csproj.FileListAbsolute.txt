@@ -1,0 +1,8 @@
+c:\users\james\documents\visual studio 2015\Projects\Intercom Drinks\Drinks_Test\bin\Debug\Drinks_Test.dll
+c:\users\james\documents\visual studio 2015\Projects\Intercom Drinks\Drinks_Test\bin\Debug\Drinks_Test.pdb
+c:\users\james\documents\visual studio 2015\Projects\Intercom Drinks\Drinks_Test\bin\Debug\Intercom Drinks.exe
+c:\users\james\documents\visual studio 2015\Projects\Intercom Drinks\Drinks_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\james\documents\visual studio 2015\Projects\Intercom Drinks\Drinks_Test\bin\Debug\Intercom Drinks.pdb
+c:\users\james\documents\visual studio 2015\Projects\Intercom Drinks\Drinks_Test\obj\Debug\Drinks_Test.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\Intercom Drinks\Drinks_Test\obj\Debug\Drinks_Test.dll
+c:\users\james\documents\visual studio 2015\Projects\Intercom Drinks\Drinks_Test\obj\Debug\Drinks_Test.pdb
